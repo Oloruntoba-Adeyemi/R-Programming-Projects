@@ -1,0 +1,51 @@
+sid,sname,marks,age,enrollment_date,gender,country,status,grades
+101,alex,50,30,2021-08-12,male,Belgium,Validated,C
+102,reena,50,30,2021-08-12,female,United Kingdom,Validated,C
+103,teena,52,40,2021-08-12,female,United Kingdom,Validated,C
+104,victoria,56,38,2021-08-12,female,United Kingdom,Validated,C
+105,andrew,65,37,2021-08-12,male,United Kingdom,Validated,B
+106,william,67,36,2021-08-12,male,United Kingdom,Validated,B
+107,abdul,88,30,2021-08-12,male,United Kingdom,Validated,A
+108,tim,12,43,2022-02-01,male,United Kingdom,Needs Validation,F
+109,veronica,90,30,2021-08-12,female,United Kingdom,Validated,A
+110,andrew,50,35,2021-08-12,male,United Kingdom,Validated,C
+111,sunny,110,30,2021-08-12,male,United Kingdom,Validated,A
+112,moon,58.4,28,2021-08-12,female,India,Validated,C
+113,mohammed,45,50,2021-08-12,male,United Kingdom,Validated,F
+114,olivia,55,30,2021-08-12,female,United Kingdom,Validated,C
+115,noah,34,34.57446808510638,2021-08-12,female,United Kingdom,Validated,F
+116,oliver,44,40,2021-08-12,male,United Kingdom,Validated,F
+117,elijah,47,38,2021-08-12,male,United Kingdom,Validated,F
+118,william,76,37,2021-08-12,male,United Kingdom,Validated,A
+119,james,55,36,2021-08-12,male,United Kingdom,Validated,C
+120,benjamin,44,30,2021-08-12,male,Nigeria,Validated,F
+121,lucas,34,43,2022-02-01,male,United Kingdom,Needs Validation,F
+122,henry,54,30,2021-08-12,male,United Kingdom,Validated,C
+123,alexander,34,35,2022-01-08,male,United Kingdom,Needs Validation,F
+124,emma,35,30,2022-01-08,female,United Kingdom,Needs Validation,F
+125,ava,36,28,2022-01-09,female,United Kingdom,Needs Validation,F
+126,charlotte,58.4,29,2021-08-12,female,United Kingdom,Validated,C
+127,sophia,56,31,2021-08-12,female,United Kingdom,Validated,C
+128,amelia,57,34.57446808510638,2021-08-12,female,United Kingdom,Validated,C
+129,isabella,58,34.57446808510638,2021-08-12,female,United Kingdom,Validated,C
+130,mia,59,33,2021-08-12,female,United Kingdom,Validated,C
+131,evelyn,58.4,30,2021-08-12,female,United Kingdom,Validated,C
+132,patricia,78,30,2021-08-12,female,United Kingdom,Validated,A
+133,jennifer,75,40,2021-08-12,female,United Kingdom,Validated,A
+134,linda,76,38,2021-08-12,male,United Kingdom,Validated,A
+135,elizabeth,101,37,2021-08-12,female,United Kingdom,Validated,A
+136,barbara,87,36,2021-08-12,female,United Kingdom,Validated,A
+137,susan,86,30,2021-08-12,female,United Kingdom,Validated,A
+138,jessica,51,43,2021-08-12,female,United Kingdom,Validated,C
+139,sarah,50,30,2021-08-12,female,Pakistan,Validated,C
+140,karen,48,35,2021-08-12,female,United Kingdom,Validated,F
+141,nancy,50,30,2021-08-12,female,United Kingdom,Validated,C
+142,evelyn,58.4,30,2021-08-12,female,United Kingdom,Validated,C
+143,lisa,50,28,2021-08-12,female,United Kingdom,Validated,C
+144,betty,52,50,2021-08-12,female,United Kingdom,Validated,C
+145,margaret,56,30,2021-08-12,female,United Kingdom,Validated,C
+146,sandra,65,30,2021-08-12,female,United Kingdom,Validated,B
+147,ashley,58.4,40,2021-08-12,female,United Kingdom,Validated,C
+148,kimberly,88,38,2021-08-12,female,United Kingdom,Validated,A
+149,emily,12,37,2022-02-06,female,United Kingdom,Needs Validation,F
+150,donna,90,36,2021-08-12,female,United Kingdom,Validated,A
